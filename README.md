@@ -16,9 +16,12 @@ V3: De veranderingen in deze versie zijn vooral cosmetisch:
 - Het bord wordt niet meer slechts als lijst geprint, maar als 3x3 grid
 - De speler kan kiezen met welk teken die wilt spelen
 
-V4: De veranderingen in deze versei zijn:
+V4: De veranderingen in deze versie zijn:
 - Het wordt mogelijk om in plaats van tegen de computer, tegen een andere tegenstander te spelen
 - Daarnaast kan er geen zet meer gespeeld worden op een vakje dat al bezet is
+
+V5: De veranderingen in deze versie zijn:
+- De input van de speler wordt getest met een try except loop, en geeft verschillende outputs bij tekst of getallen buiten de range
 
 ### Python Concepts:
 * **2D Matrix Datastructuren:** Speelveld-architectuur via geneste lijsten (`[rij][kolom]`) en data-validatie met `while`-loops.
